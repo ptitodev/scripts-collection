@@ -1,0 +1,36 @@
+ambus-algofc11 | CHANGED | rc=0 >>
+	Serial Number: 2SRT5S3
+ambus-algofc19 | CHANGED | rc=0 >>
+	Serial Number: 1ZVT5S3
+ambus-algofc21 | FAILED! => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python3.8"
+    },
+    "changed": false,
+    "module_stderr": "",
+    "module_stdout": "sudo: a password is required\r\n",
+    "msg": "MODULE FAILURE\nSee stdout/stderr for the exact error",
+    "rc": 1
+}
+ambus-algofc14 | CHANGED | rc=0 >>
+	Serial Number: 9SRT5S3
+ambus-algofc24 | CHANGED | rc=0 >>
+	Serial Number: 9YVT5S3
+ambus-algofc25 | CHANGED | rc=0 >>
+	Serial Number: GYVT5S3
+ambus-algofc15 | CHANGED | rc=0 >>
+	Serial Number: BSRT5S3
+ambus-algofc17 | CHANGED | rc=0 >>
+	Serial Number: JRRT5S3
+ambus-algofc22 | CHANGED | rc=0 >>
+	Serial Number: 2ZVT5S3
+ambus-algofc13 | CHANGED | rc=0 >>
+	Serial Number: 5SRT5S3
+ambus-algofc12 | CHANGED | rc=0 >>
+	Serial Number: 1SRT5S3
+ambus-algofc23 | CHANGED | rc=0 >>
+	Serial Number: FYVT5S3
+ambus-algofc16 | CHANGED | rc=0 >>
+	Serial Number: HRRT5S3
+ambus-algofc18 | CHANGED | rc=0 >>
+	Serial Number: 8SRT5S3
